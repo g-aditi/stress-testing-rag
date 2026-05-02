@@ -1,5 +1,7 @@
 # stress-testing-rag
 
+![Project Pipeline](pipeline.png)
+
 A multi-agent stress-testing pipeline that measures whether **uncertainty-triggered
 probing** can recover a closed-book LLM's wrong / hedged answers on US crime QA.
 Two real datasets: Phoenix open incidents (2015-2025) and FBI homicide records
